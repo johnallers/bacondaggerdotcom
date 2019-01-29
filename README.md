@@ -1,4 +1,4 @@
-# Bacon Dagger - My Random Notes
+# Bacon Dagger 🥓🗡️ - Random Notes
 
 ## Interesting Developer/Tech Sites
 - [Discover .NET](https://discoverdot.net/)
