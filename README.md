@@ -1,5 +1,3 @@
-# Bacon Dagger 🥓🗡️ - Random Notes
-
 ## Interesting Developer/Tech Sites
 - [Discover .NET](https://discoverdot.net/)
 - [Crypto101](https://www.crypto101.io/)
