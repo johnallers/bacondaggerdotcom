@@ -10,3 +10,6 @@
 ## Uncategorized
 - [Hexyl](https://github.com/sharkdp/hexyl) - Hexadecimal viewer for the terminal
 - [Scoop](https://scoop.sh/) - Command-line installer for Windows
+
+## Other Notes
+[Unsolved and annoying Windows issues](Windows-Issues.md)
