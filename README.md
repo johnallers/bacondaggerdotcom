@@ -6,3 +6,7 @@
 - [posh-git](https://github.com/dahlbyk/posh-git)
 - [Go-Shell](https://github.com/cameronharp/Go-Shell)
 - [Invoke-ElevatedCommand.ps1](https://gist.github.com/TaoK/1582185)
+
+## Uncategorized
+- [Hexyl](https://github.com/sharkdp/hexyl) - Hexadecimal viewer for the terminal
+- [Scoop](https://scoop.sh/) - Command-line installer for Windows
