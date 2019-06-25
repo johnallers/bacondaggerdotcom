@@ -12,5 +12,8 @@
 - [Scoop](https://scoop.sh/) - Command-line installer for Windows
 - [Acrylic](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - Local DNS Proxy
 
+
+
 ## Other Notes
+[Visual Studio Configuration](vs-config.md)
 [Unsolved and annoying Windows issues](Windows-Issues.md)
