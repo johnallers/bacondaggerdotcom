@@ -15,5 +15,5 @@
 
 
 ## Other Notes
-[Visual Studio Configuration](vs-config.md)
-[Unsolved and annoying Windows issues](Windows-Issues.md)
+- [Visual Studio Configuration](vs-config.md)
+- [Unsolved and annoying Windows issues](Windows-Issues.md)
