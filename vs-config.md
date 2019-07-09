@@ -1,5 +1,7 @@
 # Visual Studio Configuration
 
+- https://github.com/tonsky/FiraCode
+
 ## Extensions
 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
