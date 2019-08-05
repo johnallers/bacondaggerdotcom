@@ -13,7 +13,7 @@
 - [Scoop](https://scoop.sh/) - Command-line installer for Windows
 - [Acrylic](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - Local DNS Proxy
 - [PolarProxy](https://www.netresec.com/?page=PolarProxy) - TLS Proxy with PCAP dumps
-
+- [MermaidJS](https://mermaidjs.github.io/#/) - Diagram/Flowchart generator
 
 ## Other Notes
 - [Visual Studio Configuration](vs-config.md)
