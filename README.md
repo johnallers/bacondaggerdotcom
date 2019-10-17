@@ -18,3 +18,4 @@
 ## Other Notes
 - [Visual Studio Configuration](vs-config.md)
 - [Unsolved and annoying Windows issues](Windows-Issues.md)
+- [Stuff to try](stuff-to-try.md)
