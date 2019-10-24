@@ -15,6 +15,7 @@
 - [PolarProxy](https://www.netresec.com/?page=PolarProxy) - TLS Proxy with PCAP dumps
 - [MermaidJS](https://mermaidjs.github.io/#/) - Diagram/Flowchart generator
 - [mkcert](https://github.com/FiloSottile/mkcert)
+- [Clumsy](https://github.com/jagt/clumsy)
 ## Other Notes
 - [Visual Studio Configuration](vs-config.md)
 - [Unsolved and annoying Windows issues](Windows-Issues.md)
