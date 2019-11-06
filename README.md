@@ -21,3 +21,4 @@
 - [Visual Studio Configuration](vs-config.md)
 - [Unsolved and annoying Windows issues](Windows-Issues.md)
 - [Stuff to try](stuff-to-try.md)
+- [Creating Custom Secure LDAP Certificates for Domain Controllers with Auto Renewal](https://blogs.technet.microsoft.com/russellt/2016/06/03/custom-ldap-certs/)
