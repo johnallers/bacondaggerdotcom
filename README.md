@@ -17,6 +17,11 @@
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Clumsy](https://github.com/jagt/clumsy) - Network conditions simulator
 - [mitm.watch](https://mitm.watch/)
+
+## PC Builds
+* http://www.logicalincrements.com/
+* http://pcpartpicker.com/
+
 ## Other Notes
 - [Visual Studio Configuration](vs-config.md)
 - [Unsolved and annoying Windows issues](Windows-Issues.md)
