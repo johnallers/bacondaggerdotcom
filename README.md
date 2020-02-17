@@ -20,8 +20,8 @@
 - **[QA Automation](qa-automation.md)**
 
 ## PC Builds
-* http://www.logicalincrements.com/
-* http://pcpartpicker.com/
+* [Logical Increments](http://www.logicalincrements.com/)
+* [PC Part Picker](http://pcpartpicker.com/)
 
 ## Other Notes
 - [Visual Studio Configuration](vs-config.md)
