@@ -17,6 +17,7 @@
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Clumsy](https://github.com/jagt/clumsy) - Network conditions simulator
 - [mitm.watch](https://mitm.watch/)
+- [QA Automation](qa-automation.md)
 
 ## PC Builds
 * http://www.logicalincrements.com/
