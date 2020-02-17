@@ -1,6 +1,6 @@
 ## Selenium Alternatives
 
-- [https://www.cypress.io/]
-- [https://github.com/microsoft/playwright]
-- [https://uilicious.com/]
-- [https://devexpress.github.io/testcafe/]
+- [Cypress](https://www.cypress.io/)
+- [PlayWright](https://github.com/microsoft/playwright)
+- [Ulicious](https://uilicious.com/)
+- [TestCafe](https://devexpress.github.io/testcafe/)
