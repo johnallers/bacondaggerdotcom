@@ -2,6 +2,7 @@
 - [Discover .NET](https://discoverdot.net/)
 - [Crypto101](https://www.crypto101.io/)
 - [Security Headers](https://securityheaders.com/)
+- [How to managed HTML DOM](https://htmldom.dev/)
 
 ## PowerShell Modules
 - [posh-git](https://github.com/dahlbyk/posh-git)
