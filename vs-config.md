@@ -11,6 +11,7 @@
   - sysinternals
   - windows-terminal
 - 1password
+- Anki
 - BeyondCompare
 - Brave browser
 - dnspy
