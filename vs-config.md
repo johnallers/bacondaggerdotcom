@@ -14,14 +14,20 @@
 - BeyondCompare
 - Brave browser
 - dnspy
+- Divvy
 - Dropbox
+- Dynalist
 - Expresso
+- Fiddler
+- Grammarly
 - LinqPad
 - Notepad++
 - Paint.NET
+- Postman
 - ShareX
 - TortoiseGit
 - Vim
+- VS Code
 - WizTree
 
 # PowerShell
