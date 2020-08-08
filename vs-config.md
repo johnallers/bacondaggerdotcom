@@ -10,9 +10,19 @@
   - powertoys
   - sysinternals
   - windows-terminal
-- dnspy
+- 1password
 - BeyondCompare
+- Brave browser
+- dnspy
+- Dropbox
+- Expresso
 - LinqPad
+- Notepad++
+- Paint.NET
+- ShareX
+- TortoiseGit
+- Vim
+- WizTree
 
 # PowerShell
 - Modules
@@ -20,6 +30,7 @@
   - Posh-Git
 - Scripts
   - [Invoke-ElevatedCommand](https://gist.github.com/TaoK/1582185)
+- [Custom profile.ps1](profile.ps1)
 
 # Visual Studio Configuration
 
