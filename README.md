@@ -2,7 +2,7 @@
 - [Discover .NET](https://discoverdot.net/)
 - [Crypto101](https://www.crypto101.io/)
 - [Security Headers](https://securityheaders.com/)
-- [How to managed HTML DOM](https://htmldom.dev/)
+- [How to manage HTML DOM](https://htmldom.dev/)
 
 ## PowerShell Modules
 - [posh-git](https://github.com/dahlbyk/posh-git)
@@ -25,7 +25,7 @@
 * [PC Part Picker](http://pcpartpicker.com/)
 
 ## Other Notes
-- [Visual Studio Configuration](vs-config.md)
+- [Dev Machine Configuration](vs-config.md)
 - [Unsolved and annoying Windows issues](Windows-Issues.md)
 - [Stuff to try](stuff-to-try.md)
 - [Creating Custom Secure LDAP Certificates for Domain Controllers with Auto Renewal](https://blogs.technet.microsoft.com/russellt/2016/06/03/custom-ldap-certs/)
