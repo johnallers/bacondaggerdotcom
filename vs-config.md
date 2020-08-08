@@ -22,6 +22,7 @@
 - Dynalist
 - Expresso
 - Fiddler
+- Firefox (stable and developer edition)
 - Grammarly
 - LinqPad
 - Notepad++
