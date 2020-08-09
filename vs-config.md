@@ -33,6 +33,7 @@
 - Vim
 - VS Code
 - WizTree
+- ZoomIt
 
 ## PowerShell
 - Modules
