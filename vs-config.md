@@ -25,6 +25,7 @@
 - Firefox (stable and developer edition)
 - Grammarly
 - LinqPad
+- nodejs
 - Notepad++
 - Paint.NET
 - Postman
