@@ -31,6 +31,7 @@
 - Paint.NET
 - Postman
 - ShareX
+- [Standard Notes](https://standardnotes.org/)
 - TortoiseGit
 - Vim
 - VS Code
