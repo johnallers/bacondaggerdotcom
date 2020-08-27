@@ -24,6 +24,7 @@
 - Fiddler
 - Firefox (stable and developer edition)
 - Grammarly
+- [Just Focus Chrome browser extension](https://chrome.google.com/webstore/detail/just-focus/gefaddaengbodpiobpbgblajdboalmgc/related)
 - LinqPad
 - nodejs
 - Notepad++
