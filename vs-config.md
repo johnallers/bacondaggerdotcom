@@ -23,6 +23,8 @@
 - Expresso
 - Fiddler
 - Firefox (stable and developer edition)
+- git
+  - https://github.com/joelparkerhenderson/git_commit_template/blob/master/git_commit_template.txt
 - Grammarly
 - [Just Focus Chrome browser extension](https://chrome.google.com/webstore/detail/just-focus/gefaddaengbodpiobpbgblajdboalmgc/related)
 - LinqPad
