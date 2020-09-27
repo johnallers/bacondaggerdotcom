@@ -30,3 +30,4 @@
 - [Stuff to try](stuff-to-try.md)
 - [Creating Custom Secure LDAP Certificates for Domain Controllers with Auto Renewal](https://blogs.technet.microsoft.com/russellt/2016/06/03/custom-ldap-certs/)
 - [Leadership resources](leadership.md)
+- [Special use domains](https://www.iana.org/domains/reserved)
