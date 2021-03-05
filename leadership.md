@@ -2,6 +2,7 @@
 
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 - [SWLW: Software Lead Weekly newsletter](https://softwareleadweekly.com/)
+- [Resources compiled by Ryan Burgess](https://github.com/ryanburgess/engineer-manager)
 
 ### Articles
 
