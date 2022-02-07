@@ -2,40 +2,44 @@
 
 ## Tools
 - [Scoop](https://scoop.sh/) - Command-line installer
-  - 7zip
-  - age
-  - autohotkey
+  - ~~7zip~~
+  - ~~age~~
+  - ~~autohotkey~~
+  - Ditto
+  - gh
   - glogg
-  - graphviz
+  - ~~graphviz~~
   - makecert
+  - mremoteng
+  - ngrok
   - nuget
-  - powertoys
+  - openjdk
+  - PostGit
+  - ~~powertoys~~
   - sysinternals
+  - vim
   - windows-terminal
+  - winscp
 - 1password
-- Anki
 - BeyondCompare
-- Brave browser
 - dnspy
-- Divvy
-- Dropbox
-- Dynalist
 - Expresso
 - Fiddler
 - Firefox (stable and developer edition)
 - git
   - https://github.com/joelparkerhenderson/git_commit_template/blob/master/git_commit_template.txt
+- Google Drive
 - Grammarly
-- [Just Focus Chrome browser extension](https://chrome.google.com/webstore/detail/just-focus/gefaddaengbodpiobpbgblajdboalmgc/related)
 - LinqPad
 - nodejs
 - Notepad++
 - Paint.NET
 - Postman
+- PowerPom
+- PowerToys
 - ShareX
 - [Standard Notes](https://standardnotes.org/)
 - TortoiseGit
-- Vim
 - VS Code
 - WizTree
 - ZoomIt
