@@ -63,3 +63,8 @@
   - [GoToDnSpy](https://marketplace.visualstudio.com/items?itemName=VladimirChirikov.GoToDnSpy)
   - [EditorGuidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   - ReSharper - Everything is disabled except for the Stack Trace Explorer
+
+## JetBrains Rider
+
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [Nord](https://plugins.jetbrains.com/plugin/10321-nord)
