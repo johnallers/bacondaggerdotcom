@@ -43,6 +43,7 @@
 - VS Code
 - WizTree
 - ZoomIt
+- PlantUML
 
 ## PowerShell
 - Modules
