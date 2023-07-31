@@ -18,6 +18,8 @@
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Clumsy](https://github.com/jagt/clumsy) - Network conditions simulator
 - [mitm.watch](https://mitm.watch/)
+- [JWT Builder](http://jwtbuilder.jamiekurtz.com/)
+- [jwt.io](https://jwt.io)
 - **[QA Automation](qa-automation.md)**
 
 ## PC Builds
