@@ -3,6 +3,7 @@
 - [Crypto101](https://www.crypto101.io/)
 - [Security Headers](https://securityheaders.com/)
 - [How to manage HTML DOM](https://htmldom.dev/)
+- [Everything Curl](https://everything.curl.dev/)
 
 ## PowerShell Modules
 - [posh-git](https://github.com/dahlbyk/posh-git)
